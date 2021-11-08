@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.bc241be8.chunk.css",
+    "main.js": "/portfolio1/static/js/main.19a6a487.chunk.js",
+    "main.js.map": "/portfolio1/static/js/main.19a6a487.chunk.js.map",
+    "runtime-main.js": "/portfolio1/static/js/runtime-main.4b1e1f53.js",
+    "runtime-main.js.map": "/portfolio1/static/js/runtime-main.4b1e1f53.js.map",
+    "static/js/2.bd68f772.chunk.js": "/portfolio1/static/js/2.bd68f772.chunk.js",
+    "static/js/2.bd68f772.chunk.js.map": "/portfolio1/static/js/2.bd68f772.chunk.js.map",
+    "static/js/3.06d55137.chunk.js": "/portfolio1/static/js/3.06d55137.chunk.js",
+    "static/js/3.06d55137.chunk.js.map": "/portfolio1/static/js/3.06d55137.chunk.js.map",
+    "index.html": "/portfolio1/index.html",
+    "static/css/main.bc241be8.chunk.css.map": "/portfolio1/static/css/main.bc241be8.chunk.css.map",
+    "static/js/2.bd68f772.chunk.js.LICENSE.txt": "/portfolio1/static/js/2.bd68f772.chunk.js.LICENSE.txt",
+    "static/media/about.c4bbd52c.png": "/portfolio1/static/media/about.c4bbd52c.png",
+    "static/media/bloodbnk.c5d8e396.PNG": "/portfolio1/static/media/bloodbnk.c5d8e396.PNG",
+    "static/media/clock.7d78c55a.PNG": "/portfolio1/static/media/clock.7d78c55a.PNG",
+    "static/media/education.e918f198.png": "/portfolio1/static/media/education.e918f198.png",
+    "static/media/home.4a7de6fd.png": "/portfolio1/static/media/home.4a7de6fd.png",
+    "static/media/languages.a031633e.png": "/portfolio1/static/media/languages.a031633e.png",
+    "static/media/react.ac14d2f2.png": "/portfolio1/static/media/react.ac14d2f2.png",
+    "static/media/resume.538b3e84.pdf": "/portfolio1/static/media/resume.538b3e84.pdf",
+    "static/media/todo.bd9804b0.PNG": "/portfolio1/static/media/todo.bd9804b0.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b1e1f53.js",
+    "static/js/2.bd68f772.chunk.js",
+    "static/css/main.bc241be8.chunk.css",
+    "static/js/main.19a6a487.chunk.js"
+  ]
+}
