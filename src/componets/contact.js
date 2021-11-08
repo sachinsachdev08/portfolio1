@@ -18,7 +18,7 @@ export default class Contact extends Component{
                                 
                             </div>
                             <div style={{display:'flex'}}>
-                                <p>Phone : 92284670395</p>
+                                <p>Phone : 9284670395</p>
                             </div>
 
                             <div style={{display:'flex'}}>
