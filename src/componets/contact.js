@@ -6,7 +6,7 @@ export default class Contact extends Component{
         return(
             <div className="contact-main" id="contact">
                 <p className="aboutdesc1"  style={{textAlign:'center'}}>Contact me</p>
-                <hr className="hr" style={{margin:'auto'}}/>
+                <hr className="hr"/>
                 <div className="contact-flex">
                     <div className="contact-div1">
                         <div style={{width:'70%'}}>

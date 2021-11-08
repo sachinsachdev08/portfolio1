@@ -7,7 +7,7 @@ export default class Resume extends Component{
         return(
             <>
             <p className="aboutdesc1" style={{textAlign:'center'}}>Resume</p>
-            <hr className="hr" style={{margin:'auto'}}/>
+            <hr className="hr"/>
             <div className="resume-main" id="resume">
             
             

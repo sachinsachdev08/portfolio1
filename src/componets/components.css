@@ -111,6 +111,14 @@ li {
   margin-block-end: 0;
 }
 
+.portfolio-heading {
+  text-align: center;
+  font-size: 2em;
+  color: #01796f;
+  font-weight: bold;
+  margin-block-end: 0;
+}
+
 .aboutdesc {
   margin-left: 30px;
   width: 50%;
@@ -286,10 +294,10 @@ input {
 }
 @media (min-width: 300px) and (max-width: 700px) {
   .flexbox {
-    width: 960px;
+    width: 1450px;
   }
   #about {
-    width: 960px;
+    width: 1450px;
     display: block;
     height: 1000px;
     text-align: center;
@@ -304,22 +312,29 @@ input {
   }
 
   .aboutComp {
-    width: 800px;
+    width: 1300px;
+    display: block;
+  }
+  .skills {
+    width: 1000px;
+    margin-left: 150px;
   }
 
   #portfolio {
-    width: 960px;
+    width: 1450px;
   }
 
   .aboutdesc1 {
-    width: 960px;
+    width: 1450px;
+    text-align: center;
   }
   .hr {
-    margin: 0;
-    margin-left: 388px;
+    display: block;
+    margin: 0px;
+    margin-left: 635px;
   }
   .resume-main {
-    width: 960px;
+    width: 1450px;
     display: block;
   }
 
@@ -327,14 +342,31 @@ input {
     width: 80%;
   }
   .resume-img {
-    margin-left: 120px;
+    margin-left: 350px;
   }
 
   .contact-main {
-    width: 930px;
+    width: 1430px;
     margin-left: 15px;
   }
   .footer {
-    width: 960px;
+    width: 1450px;
+  }
+  .aboutdesc2 {
+    width: 100%;
+    margin-left: 300px;
+    font-size: large;
+  }
+  .technologies {
+    margin-left: 300px;
+  }
+
+  .portfolio-heading {
+    width: 1450px;
+  }
+
+  .projects-main {
+    flex-direction: column;
+    align-items: center;
   }
 }
